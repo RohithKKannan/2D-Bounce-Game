@@ -625,11 +625,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 064e53cd-668b-48ef-9152-e283e2cafde9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: 2D-Bounce-Game
+  organizationId: plainstunneler
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
